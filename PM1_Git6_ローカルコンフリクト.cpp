@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
     
-    std::cout << "Clone Added Two";
+    std::cout << "Clone Added Again";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
